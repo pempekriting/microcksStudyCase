@@ -46,4 +46,4 @@ What things you need to install:
 You can check the report [here](https://pempekriting.github.io/microcksStudyCase/report/cucumber-html-reports/overview-features.html)
 
 ## Evidence
-![](docs/Evidence-web.mp4)
+![](docs/Evidence-web.gif)
